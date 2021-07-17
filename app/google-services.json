@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191054482179",
+    "project_id": "t-protechmps",
+    "storage_bucket": "t-protechmps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191054482179:android:1ddcb41e872f59dd3b7736",
+        "android_client_info": {
+          "package_name": "com.example.gmapsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191054482179-7aggbkrkiul8ehhquq7e9gjj9l4v1i4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcnI3LYMAFOQWqJ2ANj-4pbcaCZj_8tgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191054482179-7aggbkrkiul8ehhquq7e9gjj9l4v1i4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
